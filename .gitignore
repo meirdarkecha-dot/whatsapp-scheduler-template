@@ -1,0 +1,6 @@
+node_modules/
+auth/
+schedules.json
+groups.json
+groups_deleted.json
+.env
